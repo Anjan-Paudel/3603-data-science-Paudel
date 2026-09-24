@@ -13,15 +13,15 @@ x = 10
 print(type(x))
 ```
 
-   `Answer:` _______________________
+   `Answer:` `<class 'int'>`
 
 2. What scalar type would best represent:
-   - A person's name: _______
-   - Their age: _______
-   - Whether they passed a test: _______
+   - A person's name: `str`
+   - Their age: `int`
+   - Whether they passed a test: `bool`
 
 3. Why does `int('21')` work, but `int('twenty-one')` raise an error?  
-   `Answer:` _______________________
+   `Answer:` ` `
 
 ---
 
